@@ -61,5 +61,5 @@ SUMMARY TEXT
 
 ## Guidelines
 
-- [Blameless RCA Guideline](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html)
+- [Blameless RCA Guideline](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis/)
 - [5 whys](https://en.wikipedia.org/wiki/5_Whys)
